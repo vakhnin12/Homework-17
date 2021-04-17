@@ -1,0 +1,9 @@
+button{
+    background-color: chartreuse;
+}
+.disabled {
+    background-color: grey;
+}
+button.disabled{
+    background-color: grey;
+}
